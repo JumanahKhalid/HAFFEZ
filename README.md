@@ -1,4 +1,6 @@
 # HAFFEZ  
+![logo-2](https://github.com/JumanahKhalid/HAFFEZ/assets/110771258/14b25fe6-7398-469f-93a0-b33d648e7e31)
+
 
 ## About
 HAFFEZ is an ios app that provides a way to improve mental health for those who need a dose of motivation or a small break to breathe, using positive affirmations.
